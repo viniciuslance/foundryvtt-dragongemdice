@@ -14,5 +14,9 @@
 	],
 	"scripts": [
 		"scripts/dragongem.js"
-	]
+	],
+	"url": "https://github.com/viniciuslance/foundryvtt-dragongemdice/",
+	"manifest": "https://raw.githubusercontent.com/viniciuslance/foundryvtt-dragongemdice/main/dragongem/module.json",
+	"download": "https://raw.githubusercontent.com/viniciuslance/foundryvtt-dragongemdice/main/dragongem.zip",
+	"readme": "https://raw.githubusercontent.com/viniciuslance/foundryvtt-dragongemdice/main/README.md"
 }
