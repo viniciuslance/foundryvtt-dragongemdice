@@ -45,7 +45,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 		dice3d.addDicePreset({
 		type: "d20",
 		labels: "",
-		modelFile: "modules/dragongem/models/wcube_d20.glb",
+		modelFile: "modules/dragongem/models/DragonGem_d20.glb",
 		system: "dragongem"
 	});
 });
