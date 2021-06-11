@@ -15,7 +15,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 		dice3d.addDicePreset({
 		type: "d6",
 		labels: "",
-		modelFile: "modules/dragongem/models/wcube_d6.glb",
+		modelFile: "modules/dragongem/models/DragonGem_d6.glb",
 		system: "dragongem"
 	});
 		dice3d.addDicePreset({
